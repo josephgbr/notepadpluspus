@@ -1,2 +1,2 @@
 # notepadpluspus
-My contributions to notepad++
+I'll be storing here a few of my contributions for Notepad++
